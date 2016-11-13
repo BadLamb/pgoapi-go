@@ -2,7 +2,7 @@ package api
 
 import (
 	"crypto/rand"
-	"context"
+	"golang.org/x/net/context"
 	"fmt"
 	"log"
 	"strings"
