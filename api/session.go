@@ -1,8 +1,8 @@
 package api
 
 import (
-	"golang.org/x/net/context"
 	"crypto/rand"
+	"golang.org/x/net/context"
 	"fmt"
 	"log"
 	"strings"
