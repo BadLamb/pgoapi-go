@@ -7,7 +7,7 @@ import (
 
 type Uint128 [2]uint64 // { high, low }
 
-// const hashSeed uint32 = 0x61247FBF
+const hashSeed uint32 = 0x61247FBF
 const BlockSize = 128
 
 /* IOS 1.13.x */
